@@ -16,3 +16,9 @@ git branch -d <branch_name>
 
 // Delete branch from the Remote repo
 git push origin --delete login-system
+
+// In order to clone the remote GITHUB website repository into local computer, Use the link for more info --
+https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+
+Go to Code --> HTTPS --> copy link
+git bash on computer --> git clone <paste link>
